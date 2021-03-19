@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gianby10
-- 👀 I’m interested in learning new thing every day
+- 👀 I’m interested in learning new things every day
 - 🌱 I’m currently learning Javascript
 
 <!---
